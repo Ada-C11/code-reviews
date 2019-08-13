@@ -37,6 +37,9 @@ At the end of the lesson the class will discuss group observations and unanswere
 
 ## Connected Lesson
 
-<!-- TODO Add Link -->
+- [Ada Textbook Curriculum CS Fundamentals Code Reviews](https://github.com/ada-c11/code-reviews)
 
-- [Ada Textbook Curriculum CS Fundamentals Code Reviews]()
+## Resources
+
+- [How to Code Review like a human](https://mtlynch.io/human-code-reviews-1/)
+
